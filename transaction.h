@@ -18,3 +18,4 @@ void fancyPrintTransactions(Transaction *transactions[]);
 void addTransaction(Transaction *transactions[]);
 
 #endif
+

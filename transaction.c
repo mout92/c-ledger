@@ -100,3 +100,4 @@ void addTransaction(Transaction *transactions[])
 
 	return;
 }
+
