@@ -1,16 +1,16 @@
 ### Now!
-- place binary in seperate dir and exclude from git
+- Place binary in seperate DIR and exclude from git
 - Learn ncurses in a seperate testproject
 
 
 ### Soon
-- Refacture into ncurses.
+- Refacture into ncurses
 
 
 ### Later
-- Print transactions as a table.
-- Make the list of transactions navigable.
-- make a transactions deletable.
+- Print transactions as a table
+- Make the list of transactions navigable
+- make a transactions deletable
 
 
 ### Later+
@@ -18,8 +18,8 @@
 
 
 ### Later++
-- Automatically publish monthly ledgers.
+- Automatically publish monthly ledgers
 
 
 ### Later+++
-- Create mobile front-end
+- Create mobile/web front-end
