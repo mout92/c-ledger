@@ -1,0 +1,16 @@
+Now!
+- Learn ncurses in a seperate testproject
+
+Soon
+- Refacture into ncurses.
+
+Later
+- Print transactions as a table.
+- Make the list of transactions navigable.
+- make a transactions deletable.
+
+Later+
+- Save to SQL database.
+
+Later++
+- Automatically publish monthly ledgers.
