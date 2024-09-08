@@ -1,5 +1,4 @@
 ### Now!
-- Place binary in seperate DIR and exclude from git
 - Learn ncurses in a seperate testproject
 
 
